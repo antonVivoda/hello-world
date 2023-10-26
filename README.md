@@ -1,2 +1,2 @@
 # hello-world
-Quick tutorial
+Ovo je novija verzija readme fajla
